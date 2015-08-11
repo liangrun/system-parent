@@ -1,0 +1,5 @@
+com\system\dao\config\DaoConfig.class
+com\system\dao\GenericDao.class
+com\system\dao\config\HibernateConfig.class
+com\system\dao\config\HibernateConfig$1.class
+com\system\dao\impl\AbstractGenericDao.class
